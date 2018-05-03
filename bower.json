@@ -1,7 +1,7 @@
 {
   "name": "cmd_history",
   "homepage": "https://github.com/tom825416/cmd_history",
-  "description": "cmd_history project",
+  "description": "",
   "main": "index.html",
   "authors": [
     "tom.god"
@@ -11,11 +11,12 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "js/bin",
+    "js/bin2",
     "test",
     "tests"
   ],
   "dependencies": {
+    "angular": "^1.6.10",
     "bootstrap": "^4.1.1",
     "jQuery": "juqery#^3.3.1"
   }
