@@ -5,6 +5,7 @@
 + bower list 
 + bower search response
 + bower info jquery#1.0.1
++ bower init (bower.json)
 
 
 

@@ -1,0 +1,23 @@
+{
+  "name": "cmd_history",
+  "homepage": "https://github.com/tom825416/cmd_history",
+  "description": "cmd_history project",
+  "main": "index.html",
+  "authors": [
+    "Tom.God"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.10",
+    "bootstrap": "^4.1.1",
+    "jasmine-core": "jasmine#^3.1.0",
+    "jquery": "^3.3.1"
+  }
+}
