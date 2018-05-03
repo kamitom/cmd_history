@@ -1,7 +1,7 @@
 {
   "name": "cmd_history",
   "homepage": "https://github.com/tom825416/cmd_history",
-  "description": "",
+  "description": "tom desc",
   "main": "index.html",
   "authors": [
     "tom.god"
@@ -16,10 +16,12 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.6.10",
     "bootstrap": "^4.1.1",
+    "angular": "^1.6.10",
     "jQuery": "juqery#^3.3.1",
-    "lodash": "^4.17.10",
     "backbone": "^1.3.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^3.1.0"
   }
 }
