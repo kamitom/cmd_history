@@ -6,7 +6,7 @@ var xForm = document.getElementById("theForm");
 
 //TODO: 測試 jquery
 var xForm2 = $("#theForm");
-// xForm2.hide();
+xForm2.hide();
 
 var xBtn = $("#xBtn");
 xBtn.click(function(){
