@@ -11,6 +11,7 @@
 + bower uninstall lodash --save (可同步update bower.json)
 + bower install jasmine --save-dev (config devDependencies in bower.json)
 + simple test: jquery
++ bower uninstall bootstrap --save 
 
 
 &copy; 2018 TOM.GOD
