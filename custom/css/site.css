@@ -1,0 +1,9 @@
+
+#hideToggle {
+    cursor: pointer;
+}
+
+.theForm {
+    border: 2px black outset;
+    width: 300px;
+}
