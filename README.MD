@@ -14,7 +14,8 @@
 + bower uninstall bootstrap --save 
 + npm list -g -depth=0 
 + npm install -g yo gulp bower typescript tsd (-g means global install)
-+ CMD + F2 -> 程式碼區塊選擇
++ CMD + F2 -> 程式碼區塊選擇 一次修改同名變數
++ HTML FORMAT: OPTION + SHIFT + F
 
 
 &copy; 2018 TOM.GOD
